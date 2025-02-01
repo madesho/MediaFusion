@@ -1,4 +1,4 @@
-# Media Fusion Add-On For Stremio & Kodi 🎬 TEST
+# Media Fusion Add-On For Stremio & Kodi 🎬 
 
 ![Media Fusion Logo](resources/images/mediafusion_logo.png?raw=true)
 
